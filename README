@@ -1,0 +1,6 @@
+echo "# zzz" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/cksdud150/zzz.git
+git push -u origin master
